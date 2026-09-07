@@ -5,13 +5,13 @@ about:
   head: b027152
   archived: false
   latestVersion: "v1.25.0"
-  collectedAt: 2026-09-07T05:36:51Z
+  collectedAt: 2026-09-07T19:05:55Z
 timeline:
   created: 2014-10-15
   lastCommit: 2026-09-06
   lastRelease: 2026-08-26
 popularity:
-  star: 10844
+  star: 10846
   watcher: 147
   fork: 1450
   release: 162
@@ -86,7 +86,7 @@ total:
   commit: 3439
 ---
 path: /home/runner/.x-repo/github.com/shadowsocks/shadowsocks-rust
-collectedAt: 2026-09-07T05:36:54Z
+collectedAt: 2026-09-07T19:05:57Z
 loc:
   Rust:
     code: 91990
@@ -309,7 +309,7 @@ checks:
       - 'Info:   0 out of   5 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:36:56+00:00
+  collectedAt: 2026-09-07T19:05:58+00:00
   platform:
     darwin/arm64:
       name:  shadowsocks-v1.25.0.aarch64-apple-darwin.tar.xz
