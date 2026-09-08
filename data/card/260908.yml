@@ -5,7 +5,7 @@ about:
   head: b027152
   archived: false
   latestVersion: "v1.25.0"
-  collectedAt: 2026-09-08T02:54:27Z
+  collectedAt: 2026-09-08T05:29:09Z
 timeline:
   created: 2014-10-15
   lastCommit: 2026-09-06
@@ -86,7 +86,7 @@ total:
   commit: 3439
 ---
 path: /home/runner/.x-repo/github.com/shadowsocks/shadowsocks-rust
-collectedAt: 2026-09-08T02:54:32Z
+collectedAt: 2026-09-08T05:29:14Z
 loc:
   Rust:
     code: 91990
