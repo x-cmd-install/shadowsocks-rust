@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9818448,
       "digest": "sha256:58e0caf0cc9266c4ea226f38aa20fb28c1be12efc87a73cf5903197867555208",
-      "download_count": 203,
+      "download_count": 221,
       "created_at": "2026-08-26T22:32:25Z",
       "updated_at": "2026-08-26T22:32:26Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.aarch64-apple-darwin.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 114,
       "digest": "sha256:66738c0c98c6d4d88250f34be852857ae08a40367f392ef4bc5c8d05bce86ee9",
-      "download_count": 51,
+      "download_count": 57,
       "created_at": "2026-08-26T22:32:25Z",
       "updated_at": "2026-08-26T22:32:26Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.aarch64-apple-darwin.tar.xz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11573372,
       "digest": "sha256:df93da8e63fc4b0aee1457e7c7c5431f0a5ae2fa305d579153dc075f086e5278",
-      "download_count": 46,
+      "download_count": 48,
       "created_at": "2026-08-26T23:15:28Z",
       "updated_at": "2026-08-26T23:15:29Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.aarch64-linux-android.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:1b3109d9fcaf424f1859dfbf1aa872643aab5fed1656af3b561a8f9680856298",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-08-26T23:15:28Z",
       "updated_at": "2026-08-26T23:15:28Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.aarch64-linux-android.tar.xz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 11667400,
       "digest": "sha256:9c3b7fd2df1b7fd12cd80bb3b57d9de98a0fb526921669c3ac40587b88be3009",
-      "download_count": 198,
+      "download_count": 204,
       "created_at": "2026-08-26T22:38:02Z",
       "updated_at": "2026-08-26T22:38:03Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.aarch64-unknown-linux-gnu.tar.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 119,
       "digest": "sha256:601fe098e6e78aa720a9fb54a0b7dc24297d7de9741eeea7e8a509e8c6419999",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-08-26T22:38:02Z",
       "updated_at": "2026-08-26T22:38:02Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11685388,
       "digest": "sha256:2c24915b56a05effdab5898848bacfbcb625bc277b18febafc7a3aa45f87f3b0",
-      "download_count": 668,
+      "download_count": 703,
       "created_at": "2026-08-26T22:43:20Z",
       "updated_at": "2026-08-26T22:43:21Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.aarch64-unknown-linux-musl.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 120,
       "digest": "sha256:3f0f1c103cfda5adddc05e41ef0db4979f195a82ea33bdd9a31e45156f5f7a66",
-      "download_count": 73,
+      "download_count": 76,
       "created_at": "2026-08-26T22:43:20Z",
       "updated_at": "2026-08-26T22:43:20Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.aarch64-unknown-linux-musl.tar.xz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10306928,
       "digest": "sha256:3f8484e528bd71c376737a2e1cad05a0badc9d4a0d21f028552141bbd9900438",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-08-26T22:51:07Z",
       "updated_at": "2026-08-26T22:51:08Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.arm-unknown-linux-gnueabi.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 119,
       "digest": "sha256:d38c97219f5fb380893d1b7d227315639876e787b458ee99ad23dff50286ee00",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-26T22:51:07Z",
       "updated_at": "2026-08-26T22:51:07Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.arm-unknown-linux-gnueabi.tar.xz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 10614212,
       "digest": "sha256:7fa6e119668014ea21470220cc10c657e1b0210d7ad175a62584acb76c241249",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-08-26T22:51:52Z",
       "updated_at": "2026-08-26T22:51:53Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.arm-unknown-linux-gnueabihf.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 121,
       "digest": "sha256:1b90248b70767e4a25dc6f38abb5842c9292b9b38098fd264516bce2888717af",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-26T22:51:52Z",
       "updated_at": "2026-08-26T22:51:52Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.arm-unknown-linux-gnueabihf.tar.xz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 10197432,
       "digest": "sha256:80046853981d19b442a02c93e45de57d0d036c6ed34c443ce101061206f755bf",
-      "download_count": 94,
+      "download_count": 98,
       "created_at": "2026-08-26T22:43:34Z",
       "updated_at": "2026-08-26T22:43:35Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.arm-unknown-linux-musleabi.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 120,
       "digest": "sha256:dcc8d4b4dffe0f0adaa2c24ba6e71e6d4eac0ca32ae792926ee44158c4071005",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-08-26T22:43:34Z",
       "updated_at": "2026-08-26T22:43:34Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.arm-unknown-linux-musleabi.tar.xz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10762640,
       "digest": "sha256:0e2b73a6cebda5703212bd051913ed28750b52dd89be2aad04fa65fac4353d23",
-      "download_count": 182,
+      "download_count": 193,
       "created_at": "2026-08-26T23:07:40Z",
       "updated_at": "2026-08-26T23:07:41Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.arm-unknown-linux-musleabihf.tar.xz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 122,
       "digest": "sha256:f255f232d6f983ba44e8ae501e3cf0dd8bd4fd2f554be3bcdbcd08e2a07d8e15",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-26T23:07:40Z",
       "updated_at": "2026-08-26T23:07:40Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.arm-unknown-linux-musleabihf.tar.xz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 9240016,
       "digest": "sha256:1812e95fdb7d15b862197c9a88962707c5b8e9ea7b5be89e868a0a6dae2ef551",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-08-26T22:42:13Z",
       "updated_at": "2026-08-26T22:42:14Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.armv7-unknown-linux-gnueabihf.tar.xz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 123,
       "digest": "sha256:97505085601e89f43fb89f080abdf7931ba232d0cb9a9570a051162c803e8c78",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-26T22:42:13Z",
       "updated_at": "2026-08-26T22:42:13Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.armv7-unknown-linux-gnueabihf.tar.xz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 9449636,
       "digest": "sha256:12cd87a248c6d19ea2a0a4a8d7189ca9198a960fd1eeed027826e06ba2bb81d8",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-08-26T22:30:14Z",
       "updated_at": "2026-08-26T22:30:14Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.armv7-unknown-linux-musleabihf.tar.xz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 124,
       "digest": "sha256:1b9c8a394b8b23511a122ba9ff733541c4fcafc112d808136d8502aa95092116",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-26T22:30:14Z",
       "updated_at": "2026-08-26T22:30:14Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.armv7-unknown-linux-musleabihf.tar.xz.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 12764496,
       "digest": "sha256:ef64e54a36ad87ac1912c67ff5eb73bef3913912b42154d04d4e42afc6267c03",
-      "download_count": 54,
+      "download_count": 55,
       "created_at": "2026-08-26T22:43:40Z",
       "updated_at": "2026-08-26T22:43:41Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.i686-unknown-linux-musl.tar.xz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 117,
       "digest": "sha256:a289c7c71659b938835d3db0e4ce77f9ba6745950de21d357c1fa2c268e00600",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-08-26T22:43:40Z",
       "updated_at": "2026-08-26T22:43:40Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.i686-unknown-linux-musl.tar.xz.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 10866168,
       "digest": "sha256:01d3b8c373e1a55dbf1cd36206dc2b235eeb4321e45a4beab74e2970f4b4ac5f",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-08-26T22:40:11Z",
       "updated_at": "2026-08-26T22:40:12Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.loongarch64-unknown-linux-gnu.tar.xz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 123,
       "digest": "sha256:b17ad310d47fb23e731d0747f737043cd7854a7172d294f2e078af6e5dc55512",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-26T22:40:11Z",
       "updated_at": "2026-08-26T22:40:11Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.loongarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 10866968,
       "digest": "sha256:8c41d007e817d12396ec17747c395205114bc105af650c041ea15feb73da8a32",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-08-26T22:51:02Z",
       "updated_at": "2026-08-26T22:51:03Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.loongarch64-unknown-linux-musl.tar.xz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 124,
       "digest": "sha256:c13bfeeb95e7ff985d7dab64b80fa137b56a6d172275cc97c01d53f61152978b",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-26T22:51:02Z",
       "updated_at": "2026-08-26T22:51:02Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.loongarch64-unknown-linux-musl.tar.xz.sha256"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 16610960,
       "digest": "sha256:25bbc0ee8f76e1a4bc76b93e01b7080313ea60b948e16ca7deede1c8fccb9196",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-08-26T23:03:59Z",
       "updated_at": "2026-08-26T23:04:00Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.mips-unknown-linux-gnu.tar.xz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:7c91a23e6a8ccb895ff17552a996492187b97fafd643eb603b0c25f76f964d3a",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-26T23:03:59Z",
       "updated_at": "2026-08-26T23:03:59Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.mips-unknown-linux-gnu.tar.xz.sha256"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 11673808,
       "digest": "sha256:a3c9e0e67d643b6f7f95ec3008bb5e825699528211e7ffaf2fc419ef1347443b",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-26T22:57:53Z",
       "updated_at": "2026-08-26T22:57:54Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.mips64el-unknown-linux-gnuabi64.tar.xz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 125,
       "digest": "sha256:5d1a7068dee1d8c1d9f96a1e6aecf91edc73a8554493db0d4fc5227cadca30c7",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-26T22:57:53Z",
       "updated_at": "2026-08-26T22:57:54Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.mips64el-unknown-linux-gnuabi64.tar.xz.sha256"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 16542624,
       "digest": "sha256:7c294c009567413340b112fcb425a2df6d5ee6af79b744ab3be53c92cf4d7ab3",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-08-26T23:03:08Z",
       "updated_at": "2026-08-26T23:03:09Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.mipsel-unknown-linux-gnu.tar.xz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 118,
       "digest": "sha256:f8273d448d3e8eebb81024f31512289e288236753bb93d8dc9818c1e7f3ccf44",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-26T23:03:08Z",
       "updated_at": "2026-08-26T23:03:08Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.mipsel-unknown-linux-gnu.tar.xz.sha256"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 10776156,
       "digest": "sha256:b9cc0ea29f61e6f37008a60c523c68799c7440811c6076db1f404a2856b229ce",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-08-26T23:00:56Z",
       "updated_at": "2026-08-26T23:00:57Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.riscv64gc-unknown-linux-gnu.tar.xz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 121,
       "digest": "sha256:b56b34a1eafba1a54c270f731e2113477f5c54fa4d6bd468c092f4478b8dcb4b",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-26T23:00:56Z",
       "updated_at": "2026-08-26T23:00:56Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.riscv64gc-unknown-linux-gnu.tar.xz.sha256"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 10750896,
       "digest": "sha256:9e18ed697e26dbb9cf4737215ed4c6bc5164d5a527419ed7366e442381e9394e",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-26T22:59:27Z",
       "updated_at": "2026-08-26T22:59:28Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.riscv64gc-unknown-linux-musl.tar.xz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 122,
       "digest": "sha256:fc2fe6d857a3bd5ff8ae567ccefe1f1ed49e494766e7d3bcbad0f526e22d1e85",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-26T22:59:27Z",
       "updated_at": "2026-08-26T22:59:27Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.riscv64gc-unknown-linux-musl.tar.xz.sha256"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 12917428,
       "digest": "sha256:f4d7e8d9e3fe905c5c4a28e05593f2bcbd247e1618454c7996b81d951556282a",
-      "download_count": 59,
+      "download_count": 62,
       "created_at": "2026-08-26T22:22:37Z",
       "updated_at": "2026-08-26T22:22:38Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-apple-darwin.tar.xz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:c596bffffd90ce8f67df49675a5e35ba9ab0b49efc1b505baf6ac46e2222fd41",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-08-26T22:22:37Z",
       "updated_at": "2026-08-26T22:22:37Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-apple-darwin.tar.xz.sha256"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 13523068,
       "digest": "sha256:c0c82f088356af640833c83ef4b80a4e26da63b01c68d94a33bf9e515452bdbc",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-08-26T22:45:47Z",
       "updated_at": "2026-08-26T22:45:48Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-linux-android.tar.xz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 114,
       "digest": "sha256:d42e6232d3839e3fa16383aa706301d7cd3fb9aefd44d201bd819a2b45f1a760",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-08-26T22:45:47Z",
       "updated_at": "2026-08-26T22:45:48Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-linux-android.tar.xz.sha256"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 25168940,
       "digest": "sha256:5995a0f976f87bcbc2163a610cf837020c442ca9d9bed842cb7cf49a98aec6e2",
-      "download_count": 101,
+      "download_count": 108,
       "created_at": "2026-08-26T22:54:59Z",
       "updated_at": "2026-08-26T22:55:01Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-pc-windows-gnu.zip"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:7250e3ecd9a716dc550f7a5300cb97f85a140fa4a217d1feb2628bbc2222bef9",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-08-26T22:54:59Z",
       "updated_at": "2026-08-26T22:54:59Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-pc-windows-gnu.zip.sha256"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 24027370,
       "digest": "sha256:882151ea5c52941d4a3360ebd12c74c6d6bd1b599596089ef1811b379c705666",
-      "download_count": 465,
+      "download_count": 478,
       "created_at": "2026-08-26T22:26:31Z",
       "updated_at": "2026-08-26T22:26:33Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-pc-windows-msvc.zip"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 114,
       "digest": "sha256:ce6a14040ff5ab8b65674fbc6f7cd5368bcf23c4ddf28f507165e2ec728b7985",
-      "download_count": 106,
+      "download_count": 107,
       "created_at": "2026-08-26T22:26:31Z",
       "updated_at": "2026-08-26T22:26:32Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-pc-windows-msvc.zip.sha256"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 13455832,
       "digest": "sha256:2e5a42c784fb7deeec5d0164c56ec20e00af5d1a77c24945e69c2b5cc512b7e4",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-08-26T22:46:24Z",
       "updated_at": "2026-08-26T22:46:26Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-freebsd.tar.xz"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:f221bd721c70db4c33c9cefdaef8c244c6bc99d6c2166c4af3fd76f4329cca22",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-26T22:46:25Z",
       "updated_at": "2026-08-26T22:46:25Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-freebsd.tar.xz.sha256"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 13369068,
       "digest": "sha256:874f817fcf3e6d7681ec715a1c13c686c6eaae936524d102639b38364f3966ae",
-      "download_count": 2950,
+      "download_count": 3031,
       "created_at": "2026-08-26T23:17:57Z",
       "updated_at": "2026-08-26T23:17:58Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-linux-gnu.tar.xz"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 118,
       "digest": "sha256:806f3399a6520a9d53ea1be4b6965394b16c07fb2f7533735a12acdf78c99713",
-      "download_count": 238,
+      "download_count": 244,
       "created_at": "2026-08-26T23:17:57Z",
       "updated_at": "2026-08-26T23:17:58Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 13943548,
       "digest": "sha256:8439bf43c324b0fc273e663d0b1f8926fd8f666cbd1e0fd59b35096f0e778e92",
-      "download_count": 1932,
+      "download_count": 2061,
       "created_at": "2026-08-26T22:57:36Z",
       "updated_at": "2026-08-26T22:57:37Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-linux-musl.tar.xz"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 119,
       "digest": "sha256:d278c2e4fddbd770201db7f320f51245befec43cfffe2846e3d942fd76e74a2f",
-      "download_count": 389,
+      "download_count": 407,
       "created_at": "2026-08-26T22:57:36Z",
       "updated_at": "2026-08-26T22:57:37Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-linux-musl.tar.xz.sha256"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 13291228,
       "digest": "sha256:e75b97505c0256268edda3054f4df33acb1dc132b9fa3ec17749993230c844a7",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-08-26T22:58:17Z",
       "updated_at": "2026-08-26T22:58:17Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-netbsd.tar.xz"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:40cfa96d6ae34f2becf39551ad0cf0aa7e30cb2b3d005258b2234a7f3065830c",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-26T22:58:17Z",
       "updated_at": "2026-08-26T22:58:17Z",
       "browser_download_url": "https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-netbsd.tar.xz.sha256"
