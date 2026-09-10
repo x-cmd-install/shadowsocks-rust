@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.25.0"
   latestRelease: "v1.25.0"
   latestPrerelease: "v1.15.0-alpha.9"
-  collectedAt: 2026-09-10T05:36:03Z
+  collectedAt: 2026-09-10T20:37:00Z
 timeline:
   created: 2014-10-15
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 2022-10-08
 popularity:
-  star: 10853
+  star: 10855
   watcher: 147
   fork: 1449
   release: 162
@@ -90,7 +90,7 @@ total:
   commit: 3441
 ---
 path: /home/runner/.x-repo/github.com/shadowsocks/shadowsocks-rust
-collectedAt: 2026-09-10T05:36:07Z
+collectedAt: 2026-09-10T20:37:02Z
 loc:
   Rust:
     code: 91990
@@ -312,8 +312,8 @@ checks:
       - 'Warn: release artifact v1.23.4 does not have provenance: https://api.github.com/repos/shadowsocks/shadowsocks-rust/releases/218025652'
       - 'Warn: release artifact v1.23.3 does not have provenance: https://api.github.com/repos/shadowsocks/shadowsocks-rust/releases/217836073'
 ---
+  - ssservice
+  - sslocal
+  - ssurl
   - ssmanager
   - ssserver
-  - sslocal
-  - ssservice
-  - ssurl
