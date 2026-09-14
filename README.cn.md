@@ -48,22 +48,22 @@ x install shadowsocks-rust
 
 ## 流行度
 
-- **Star**: 10,859 · **Fork**: 1,449 · **开放 issue**: 896 · **贡献者**: 111
+- **Star**: 10,862 · **Fork**: 1,449 · **开放 issue**: 896 · **贡献者**: 111
 
 ## 累计统计
 
-- **发布数**: 162 · **已合并 PR**: 928 · **开放 PR**: 5 · **已关闭 issue**: 835 · **开放 issue**: 61 · **提交数**: 3442
+- **发布数**: 162 · **已合并 PR**: 928 · **开放 PR**: 5 · **已关闭 issue**: 836 · **开放 issue**: 60 · **提交数**: 3442
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 6 | 1 | 1 | 3 | 22 |
-| last60d | 2026-07-15 | 1 | 11 | 2 | 1 | 5 | 57 |
-| 90d | 2026-06-15 | 1 | 22 | 2 | 1 | 5 | 84 |
-| last180d | 2026-03-17 | 1 | 57 | 3 | 7 | 7 | 180 |
-| 360d | 2025-09-18 | 2 | 99 | 3 | 21 | 12 | 324 |
-| last720d | 2024-09-23 | 11 | 340 | 3 | 79 | 33 | 826 |
+| 30d | 2026-08-15 | 1 | 6 | 1 | 2 | 2 | 20 |
+| last60d | 2026-07-16 | 1 | 11 | 2 | 2 | 4 | 45 |
+| 90d | 2026-06-16 | 1 | 22 | 2 | 2 | 4 | 78 |
+| last180d | 2026-03-18 | 1 | 57 | 3 | 8 | 6 | 165 |
+| 360d | 2025-09-19 | 2 | 97 | 3 | 22 | 11 | 312 |
+| last720d | 2024-09-24 | 11 | 340 | 3 | 80 | 32 | 825 |
 
 ## Release 资产
 
@@ -122,19 +122,6 @@ x install shadowsocks-rust
 | [shadowsocks-v1.25.0.x86_64-unknown-netbsd.tar.xz](https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-netbsd.tar.xz) | 12.7 MiB | `other` |
 | [shadowsocks-v1.25.0.x86_64-unknown-netbsd.tar.xz.sha256](https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-netbsd.tar.xz.sha256) | 115 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/shadowsocks-rust) 上共有 **73** 个发行版报告此项目。**20** 个 ✅ 已是最新上游版本，**50** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.25.0` | ✅ latest |
-| Homebrew | `1.25.0` | ✅ latest |
-| Nix unstable | `1.25.0` | ✅ latest |
-| Void | `1.24.0` | ⚠️ outdated |
-| Alpine edge | `1.25.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.24.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 shadowsocks-rust 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `shadowsocks-rust` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -144,4 +131,4 @@ shadowsocks-rust 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:50:09Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:57:13Z._
