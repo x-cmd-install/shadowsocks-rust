@@ -4,7 +4,7 @@
 
 A Rust port of shadowsocks
 
-![shadowsocks-rust](https://repo.x-cmd.io/shadowsocks-rust.svg)
+[![x-cmd/install — shadowsocks-rust Code Quality Monitoring Repo Card](https://repo.x-cmd.io/shadowsocks-rust.svg)](https://x-cmd.com/install/shadowsocks-rust)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,868 · **Forks**: 1,451 · **Open issues**: 896 · **Contributors**: 111
+- **Stars**: 10,875 · **Forks**: 1,452 · **Open issues**: 896 · **Contributors**: 111
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 5 | 3 | 2 | 2 | 20 |
-| last60d | 2026-07-20 | 1 | 11 | 3 | 2 | 4 | 45 |
-| 90d | 2026-06-20 | 1 | 21 | 4 | 2 | 4 | 78 |
-| last180d | 2026-03-22 | 1 | 52 | 5 | 8 | 6 | 165 |
-| 360d | 2025-09-23 | 2 | 95 | 5 | 21 | 11 | 312 |
-| last720d | 2024-09-28 | 11 | 336 | 5 | 75 | 31 | 819 |
+| 30d | 2026-08-21 | 1 | 3 | 3 | 2 | 2 | 20 |
+| last60d | 2026-07-22 | 1 | 9 | 3 | 2 | 4 | 45 |
+| 90d | 2026-06-22 | 1 | 21 | 4 | 2 | 4 | 78 |
+| last180d | 2026-03-24 | 1 | 52 | 5 | 8 | 6 | 165 |
+| 360d | 2025-09-25 | 2 | 95 | 5 | 21 | 11 | 312 |
+| last720d | 2024-09-30 | 11 | 336 | 5 | 75 | 30 | 819 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for shadowsocks-rust lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:43:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:50:09Z._
