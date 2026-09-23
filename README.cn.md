@@ -4,7 +4,7 @@
 
 A Rust port of shadowsocks
 
-[![x-cmd/install — shadowsocks-rust Code Quality Monitoring Repo Card](https://repo.x-cmd.io/shadowsocks-rust.svg?lang=zh)](https://x-cmd.com/install/shadowsocks-rust)
+[![x-cmd/install — shadowsocks-rust Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/shadowsocks-rust.svg?lang=zh)](https://x-cmd.com/install/shadowsocks-rust)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install shadowsocks-rust
 
 ## 流行度
 
-- **Star**: 10,881 · **Fork**: 1,453 · **开放 issue**: 898 · **贡献者**: 111
+- **Star**: 10,883 · **Fork**: 1,454 · **开放 issue**: 898 · **贡献者**: 111
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install shadowsocks-rust
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 2 | 4 | 3 | 3 | 10 |
-| last60d | 2026-07-24 | 1 | 9 | 4 | 3 | 5 | 34 |
-| 90d | 2026-06-24 | 1 | 20 | 5 | 3 | 5 | 77 |
-| last180d | 2026-03-26 | 1 | 51 | 6 | 8 | 7 | 161 |
-| 360d | 2025-09-27 | 2 | 95 | 6 | 22 | 12 | 311 |
-| last720d | 2024-10-02 | 11 | 319 | 6 | 75 | 30 | 801 |
+| 30d | 2026-08-24 | 1 | 2 | 4 | 3 | 3 | 10 |
+| last60d | 2026-07-25 | 1 | 9 | 4 | 3 | 4 | 34 |
+| 90d | 2026-06-25 | 1 | 19 | 5 | 3 | 5 | 77 |
+| last180d | 2026-03-27 | 1 | 51 | 6 | 8 | 7 | 161 |
+| 360d | 2025-09-28 | 2 | 95 | 6 | 22 | 12 | 311 |
+| last720d | 2024-10-03 | 11 | 317 | 6 | 74 | 30 | 801 |
 
 ## Release 资产
 
@@ -131,4 +131,4 @@ shadowsocks-rust 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:03:08Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:54:40Z._
