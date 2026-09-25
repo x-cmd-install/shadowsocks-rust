@@ -14,12 +14,12 @@ x install shadowsocks-rust
 
 ## Code insight
 
-Total: **94,082** lines of code across **241** files in the top 5 languages.
+Total: **94,375** lines of code across **241** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 91,990 | 1,247 | 6,246 | 213 |
-| Toml | 549 | 287 | 106 | 8 |
+| Rust | 92,282 | 1,299 | 6,303 | 213 |
+| Toml | 550 | 287 | 106 | 8 |
 | Yaml | 506 | 57 | 35 | 12 |
 | Sh | 404 | 170 | 94 | 6 |
 | Bash | 196 | 10 | 53 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.25.0` (2026-08-26)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-25
 - **Assets in release**: 52
 
 ## Popularity
 
-- **Stars**: 10,884 · **Forks**: 1,454 · **Open issues**: 898 · **Contributors**: 111
+- **Stars**: 10,889 · **Forks**: 1,454 · **Open issues**: 898 · **Contributors**: 111
 
 ## Totals (cumulative)
 
-- **Releases**: 162 · **Merged PRs**: 928 · **Open PRs**: 8 · **Closed issues**: 837 · **Open issues**: 61 · **Commits**: 3442
+- **Releases**: 162 · **Merged PRs**: 928 · **Open PRs**: 9 · **Closed issues**: 839 · **Open issues**: 59 · **Commits**: 3445
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 2 | 4 | 3 | 3 | 10 |
-| last60d | 2026-07-26 | 1 | 8 | 4 | 3 | 4 | 34 |
-| 90d | 2026-06-26 | 1 | 19 | 5 | 3 | 5 | 77 |
-| last180d | 2026-03-28 | 1 | 51 | 6 | 8 | 7 | 161 |
-| 360d | 2025-09-29 | 2 | 95 | 6 | 22 | 12 | 311 |
-| last720d | 2024-10-04 | 11 | 316 | 6 | 74 | 30 | 801 |
+| 30d | 2026-08-26 | 1 | 2 | 5 | 5 | 1 | 13 |
+| last60d | 2026-07-27 | 1 | 8 | 5 | 5 | 2 | 37 |
+| 90d | 2026-06-27 | 1 | 19 | 6 | 5 | 3 | 80 |
+| last180d | 2026-03-29 | 1 | 51 | 7 | 10 | 5 | 164 |
+| 360d | 2025-09-30 | 2 | 95 | 7 | 24 | 10 | 314 |
+| last720d | 2024-10-05 | 11 | 312 | 7 | 75 | 28 | 798 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for shadowsocks-rust lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:34:50Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:39:28Z._
