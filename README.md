@@ -14,11 +14,11 @@ x install shadowsocks-rust
 
 ## Code insight
 
-Total: **94,375** lines of code across **241** files in the top 5 languages.
+Total: **94,626** lines of code across **242** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 92,282 | 1,299 | 6,303 | 213 |
+| Rust | 92,533 | 1,330 | 6,380 | 214 |
 | Toml | 550 | 287 | 106 | 8 |
 | Yaml | 506 | 57 | 35 | 12 |
 | Sh | 404 | 170 | 94 | 6 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.25.0` (2026-08-26)
-- **Last commit**: 2026-09-27
+- **Last commit**: 2026-09-29
 - **Assets in release**: 52
 
 ## Popularity
 
-- **Stars**: 10,896 · **Forks**: 1,454 · **Open issues**: 899 · **Contributors**: 111
+- **Stars**: 10,898 · **Forks**: 1,455 · **Open issues**: 901 · **Contributors**: 113
 
 ## Totals (cumulative)
 
-- **Releases**: 162 · **Merged PRs**: 933 · **Open PRs**: 5 · **Closed issues**: 839 · **Open issues**: 60 · **Commits**: 3452
+- **Releases**: 162 · **Merged PRs**: 935 · **Open PRs**: 4 · **Closed issues**: 841 · **Open issues**: 60 · **Commits**: 3456
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 7 | 1 | 5 | 2 | 16 |
-| last60d | 2026-07-30 | 1 | 12 | 2 | 5 | 3 | 38 |
-| 90d | 2026-06-30 | 1 | 22 | 3 | 5 | 4 | 76 |
-| last180d | 2026-04-01 | 1 | 55 | 3 | 9 | 6 | 167 |
-| 360d | 2025-10-03 | 2 | 100 | 3 | 24 | 11 | 321 |
-| last720d | 2024-10-08 | 11 | 316 | 3 | 74 | 29 | 800 |
+| 30d | 2026-08-30 | 0 | 9 | 0 | 7 | 2 | 20 |
+| last60d | 2026-07-31 | 1 | 14 | 1 | 7 | 3 | 42 |
+| 90d | 2026-07-01 | 1 | 24 | 2 | 7 | 4 | 80 |
+| last180d | 2026-04-02 | 1 | 57 | 2 | 11 | 6 | 171 |
+| 360d | 2025-10-04 | 2 | 102 | 2 | 26 | 11 | 325 |
+| last720d | 2024-10-09 | 11 | 318 | 2 | 75 | 29 | 803 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for shadowsocks-rust lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:05:37Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:23:38Z._
