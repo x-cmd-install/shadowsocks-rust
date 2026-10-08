@@ -30,7 +30,7 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/21 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 2/24 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,922 · **Forks**: 1,456 · **Open issues**: 902 · **Contributors**: 113
+- **Stars**: 10,923 · **Forks**: 1,456 · **Open issues**: 902 · **Contributors**: 113
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 7 | 1 | 6 | 2 | 0 |
-| last60d | 2026-08-08 | 1 | 13 | 2 | 7 | 4 | 0 |
-| 90d | 2026-07-09 | 1 | 19 | 3 | 7 | 5 | 0 |
-| last180d | 2026-04-10 | 1 | 54 | 3 | 11 | 7 | 0 |
-| 360d | 2025-10-12 | 2 | 100 | 3 | 24 | 12 | 0 |
-| last720d | 2024-10-17 | 11 | 314 | 3 | 73 | 30 | 807 |
+| 30d | 2026-09-08 | 0 | 7 | 1 | 6 | 2 | 20 |
+| last60d | 2026-08-09 | 1 | 13 | 2 | 7 | 4 | 43 |
+| 90d | 2026-07-10 | 1 | 19 | 3 | 7 | 5 | 79 |
+| last180d | 2026-04-11 | 1 | 54 | 3 | 11 | 7 | 166 |
+| 360d | 2025-10-13 | 2 | 100 | 3 | 24 | 12 | 311 |
+| last720d | 2024-10-18 | 11 | 312 | 3 | 73 | 30 | 805 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for shadowsocks-rust lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:38:21Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:48:07Z._
