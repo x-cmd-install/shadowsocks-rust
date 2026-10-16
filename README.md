@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,930 · **Forks**: 1,458 · **Open issues**: 904 · **Contributors**: 113
+- **Stars**: 10,932 · **Forks**: 1,458 · **Open issues**: 904 · **Contributors**: 113
 
 ## Totals (cumulative)
 
-- **Releases**: 162 · **Merged PRs**: 935 · **Open PRs**: 8 · **Closed issues**: 841 · **Open issues**: 63 · **Commits**: 3465
+- **Releases**: 162 · **Merged PRs**: 935 · **Open PRs**: 9 · **Closed issues**: 841 · **Open issues**: 63 · **Commits**: 3465
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 6 | 4 | 4 | 4 | 23 |
-| last60d | 2026-08-16 | 1 | 13 | 5 | 7 | 5 | 43 |
-| 90d | 2026-07-17 | 1 | 18 | 6 | 7 | 7 | 72 |
-| last180d | 2026-04-18 | 1 | 43 | 6 | 11 | 9 | 158 |
-| 360d | 2025-10-20 | 2 | 100 | 6 | 23 | 13 | 311 |
-| last720d | 2024-10-25 | 9 | 300 | 6 | 71 | 32 | 788 |
+| 30d | 2026-09-16 | 0 | 5 | 5 | 4 | 4 | 23 |
+| last60d | 2026-08-17 | 1 | 13 | 6 | 7 | 5 | 43 |
+| 90d | 2026-07-18 | 1 | 18 | 7 | 7 | 7 | 72 |
+| last180d | 2026-04-19 | 1 | 43 | 7 | 11 | 9 | 158 |
+| 360d | 2025-10-21 | 2 | 100 | 7 | 23 | 13 | 311 |
+| last720d | 2024-10-26 | 9 | 300 | 7 | 70 | 32 | 787 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for shadowsocks-rust lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:15:46Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:09:40Z._
