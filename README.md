@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,960 · **Forks**: 1,457 · **Open issues**: 905 · **Contributors**: 113
+- **Stars**: 10,960 · **Forks**: 1,458 · **Open issues**: 905 · **Contributors**: 113
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 1 | 15 | 0 | 4 | 11 |
-| last60d | 2026-09-02 | 0 | 9 | 16 | 7 | 6 | 32 |
-| 90d | 2026-08-03 | 1 | 15 | 17 | 7 | 7 | 54 |
-| last180d | 2026-05-05 | 1 | 34 | 18 | 9 | 10 | 150 |
-| 360d | 2025-11-06 | 2 | 98 | 18 | 18 | 14 | 306 |
-| last720d | 2024-11-11 | 9 | 276 | 18 | 67 | 33 | 755 |
+| 30d | 2026-10-03 | 0 | 1 | 15 | 0 | 4 | 6 |
+| last60d | 2026-09-03 | 0 | 9 | 16 | 6 | 5 | 28 |
+| 90d | 2026-08-04 | 1 | 15 | 17 | 7 | 7 | 50 |
+| last180d | 2026-05-06 | 1 | 34 | 18 | 9 | 10 | 137 |
+| 360d | 2025-11-07 | 2 | 98 | 18 | 18 | 13 | 304 |
+| last720d | 2024-11-12 | 9 | 276 | 18 | 67 | 33 | 752 |
 
 ## Release assets
 
@@ -124,7 +124,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **73** distros on [repology.org](https://repology.org/project/shadowsocks-rust). **21** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
+Reported by **71** distros on [repology.org](https://repology.org/project/shadowsocks-rust). **19** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -144,4 +144,4 @@ Install metadata for shadowsocks-rust lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:44:18Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:58:24Z._
