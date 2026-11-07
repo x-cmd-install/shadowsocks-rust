@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,968 · **Forks**: 1,460 · **Open issues**: 905 · **Contributors**: 112
+- **Stars**: 10,966 · **Forks**: 1,458 · **Open issues**: 905 · **Contributors**: 112
 
 ## Totals (cumulative)
 
-- **Releases**: 162 · **Merged PRs**: 936 · **Open PRs**: 24 · **Closed issues**: 841 · **Open issues**: 64 · **Commits**: 3467
+- **Releases**: 162 · **Merged PRs**: 936 · **Open PRs**: 25 · **Closed issues**: 841 · **Open issues**: 64 · **Commits**: 3467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 1 | 19 | 0 | 3 | 6 |
-| last60d | 2026-09-07 | 0 | 8 | 20 | 6 | 5 | 28 |
-| 90d | 2026-08-08 | 1 | 14 | 21 | 7 | 7 | 50 |
-| last180d | 2026-05-10 | 1 | 33 | 22 | 8 | 10 | 137 |
-| 360d | 2025-11-11 | 2 | 98 | 22 | 18 | 11 | 304 |
-| last720d | 2024-11-16 | 9 | 273 | 22 | 66 | 33 | 748 |
+| 30d | 2026-10-08 | 0 | 1 | 20 | 0 | 3 | 6 |
+| last60d | 2026-09-08 | 0 | 8 | 21 | 6 | 5 | 28 |
+| 90d | 2026-08-09 | 1 | 14 | 22 | 7 | 7 | 50 |
+| last180d | 2026-05-11 | 1 | 33 | 23 | 8 | 10 | 137 |
+| 360d | 2025-11-12 | 2 | 98 | 23 | 18 | 11 | 304 |
+| last720d | 2024-11-17 | 9 | 272 | 23 | 66 | 33 | 740 |
 
 ## Release assets
 
@@ -122,19 +122,6 @@ Lowest-scoring checks:
 | [shadowsocks-v1.25.0.x86_64-unknown-netbsd.tar.xz](https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-netbsd.tar.xz) | 12.7 MiB | `other` |
 | [shadowsocks-v1.25.0.x86_64-unknown-netbsd.tar.xz.sha256](https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.25.0/shadowsocks-v1.25.0.x86_64-unknown-netbsd.tar.xz.sha256) | 115 B | `other` |
 
-## Distribution status
-
-Reported by **71** distros on [repology.org](https://repology.org/project/shadowsocks-rust). **19** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.25.0` | ✅ latest |
-| Homebrew | `1.25.0` | ✅ latest |
-| Nix unstable | `1.25.0` | ✅ latest |
-| Void | `1.24.0` | ⚠️ outdated |
-| Alpine edge | `1.25.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.25.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for shadowsocks-rust lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `shadowsocks-rust` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -144,4 +131,4 @@ Install metadata for shadowsocks-rust lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:23:02Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:38:39Z._
