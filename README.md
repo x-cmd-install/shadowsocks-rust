@@ -26,11 +26,11 @@ Total: **94,711** lines of code across **242** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.2 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/24 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,995 · **Forks**: 1,465 · **Open issues**: 904 · **Contributors**: 112
+- **Stars**: 10,998 · **Forks**: 1,467 · **Open issues**: 904 · **Contributors**: 112
 
 ## Totals (cumulative)
 
-- **Releases**: 162 · **Merged PRs**: 936 · **Open PRs**: 38 · **Closed issues**: 840 · **Open issues**: 64 · **Commits**: 3467
+- **Releases**: 162 · **Merged PRs**: 936 · **Open PRs**: 40 · **Closed issues**: 840 · **Open issues**: 64 · **Commits**: 3467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 22 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 4 | 34 | 2 | 5 | 11 |
-| 90d | 2026-08-25 | 1 | 10 | 35 | 7 | 6 | 32 |
-| last180d | 2026-05-27 | 1 | 32 | 36 | 8 | 10 | 118 |
-| 360d | 2025-11-28 | 2 | 92 | 36 | 17 | 11 | 283 |
-| last720d | 2024-12-03 | 9 | 249 | 36 | 59 | 32 | 701 |
+| 30d | 2026-10-25 | 0 | 0 | 22 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 3 | 36 | 2 | 5 | 11 |
+| 90d | 2026-08-26 | 1 | 10 | 37 | 7 | 6 | 32 |
+| last180d | 2026-05-28 | 1 | 32 | 38 | 8 | 10 | 118 |
+| 360d | 2025-11-29 | 2 | 92 | 38 | 17 | 11 | 283 |
+| last720d | 2024-12-04 | 9 | 249 | 38 | 59 | 32 | 693 |
 
 ## Release assets
 
@@ -144,4 +144,4 @@ Install metadata for shadowsocks-rust lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:13:21Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:32:24Z._
